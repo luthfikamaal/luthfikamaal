@@ -1,4 +1,4 @@
-### Hi there 👋I'm Luthfi Kamal!
+### Hi there, I'm Luthfi Kamal!👋
 
 <!--
 **luthfikamaal/luthfikamaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
