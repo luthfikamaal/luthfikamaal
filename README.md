@@ -23,6 +23,7 @@ I’m currently learning Node.js and Laravel.
 ![MySQL](https://img.shields.io/badge/MySQL-%23f29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230868ac.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Github Stats
 
