@@ -28,5 +28,3 @@ I’m currently learning Node.js and Laravel.
 ## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=luthfikamaal)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfikamaal&layout=compact)
