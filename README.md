@@ -29,4 +29,4 @@ I’m currently learning Node.js and Laravel.
 
 <img src="https://github-readme-stats.vercel.app/api?username=luthfikamaal">
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfikamaal&langs_count=7">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfikamaal&langs_count=8">
