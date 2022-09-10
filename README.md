@@ -27,5 +27,5 @@ I’m currently learning Node.js and Laravel.
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=luthfikamaal&i=1">
+<img src="https://github-readme-stats.vercel.app/api?username=luthfikamaal&i=2">
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
